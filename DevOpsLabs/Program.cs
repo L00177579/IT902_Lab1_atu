@@ -10,7 +10,7 @@ namespace DevOpsLabs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Visual Studio change!");
+            Console.WriteLine("Vim change!");
         }
     }
 }
